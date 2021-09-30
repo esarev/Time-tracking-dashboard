@@ -207,9 +207,9 @@ background-image: url(images/icon-social.svg);
     justify-content: flex-start;
     flex-grow: 1;
   }
-  .info-card__photo {
+  /* .info-card__photo {
     margin-bottom: 1.5rem;
-  }
+  } */
   .info-card__title {
     font-size: 30px;
   }
@@ -227,7 +227,7 @@ background-image: url(images/icon-social.svg);
     margin-bottom: 0.75rem;
     font-size: 48px;
   }
-  ..tracking-card__header {
+  .tracking-card__header {
     margin-bottom: 0.75rem;
   }
   
